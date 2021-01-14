@@ -2,7 +2,8 @@
 
 ---
 
-## What I developed
+## What I developed.  
+
 
 ## Description
 
@@ -18,13 +19,12 @@
 > ```
 >
 > 형식으로 프로젝트를 구성했다.
-
-> - Category Component  
+  
+> Components
+> - Category Component   
 >   특정 카테고리(전체, 비즈니스, 엔터 etc)를 선택해 기사를 받아오도록 한다.
-
 > - NewsList Component  
 >   선택된 카테고리와 usePromise()를 통해 받아온 기사를 NewsItem으로 반복 생성
-
 > - NewsItem Component
 >   특정 기사의 이미지, 헤드라인, 내용을 보여주며, 헤드라인을 클릭할 시 해당 신문사의 원문으로 이동한다.
 
